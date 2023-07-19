@@ -1,0 +1,6 @@
+{
+  "correct_name": "tomsmith",
+  "correct_password": "SuperSecretPassword!",
+  "incorrect_name": "randomincorrectname",
+  "incorrect_password":"1234!"
+}

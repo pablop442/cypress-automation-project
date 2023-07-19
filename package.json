@@ -1,0 +1,18 @@
+{
+  "name": "herokuapp-automation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "open": "node_modules\\.bin\\cypress open",
+    "executeAll": "node_modules\\.bin\\cypress run",
+    "chromeStart": "npm run start -- --browser chrome"
+  },
+  "author": "Pablo Peña Marín",
+  "license": "ISC",
+  "devDependencies": {
+    "cy-verify-downloads": "^0.1.15",
+    "cypress": "^12.17.1"
+  }
+}
